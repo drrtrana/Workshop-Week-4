@@ -1,4 +1,0 @@
-TestDecimals.java
- TestDecimals
-TestWords.java
- TestWords

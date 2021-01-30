@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestWords" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-01-30T23:12:35" hostname="LAPTOP-S5H7EGFA" time="0.283">
-  <properties/>
-  <testcase name="shouldReturnCorrectStringForCaseOne()" classname="TestWords" time="0.281"/>
-  <testcase name="shouldReturnCorrectStringForCaseTwo()" classname="TestWords" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
